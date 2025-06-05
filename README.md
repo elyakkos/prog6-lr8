@@ -1,4 +1,5 @@
 ## Лабораторная Работа 8
+## выполнила Костылева Э.П. ИВТ 3 курс
 
 
 ### Решение:
@@ -9,4 +10,4 @@
 
 ***Распознавание людей с камеры:***
 
-![image.png]((https://github.com/elyakkos/prog6-lr8/blob/main/2025-06-04%2012.44.45.jpg)
+![image.png](https://github.com/elyakkos/prog6-lr8/blob/main/2025-06-04%2012.44.45.jpg)
